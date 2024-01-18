@@ -2,7 +2,7 @@
 
 Discover the power of Smali code, a vital skill for Android app analysis and reverse engineering apps.
 
-[⬇️ Download the file](https://github.com/justmobilesec/mobile-challenges/blob/main/Challenge-JMS-3/Challenge-JMS-3.apk)
+[⬇️ Download the file](https://github.com/justmobilesec/mobile-challenges/raw/main/Challenge-JMS-3/Challenge-JMS-3.apk)
 
 This APK is used in the posts:
 
