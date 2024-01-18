@@ -2,6 +2,8 @@
 
 Find out how to bypass Anti Emulation protection on Android
 
+[⬇️ Download the file!](https://github.com/justmobilesec/mobile-challenges/blob/main/ReverzeMe1/ReverzeMe1.apk)
+
 This APK is used in the post series:
 
 **Medium:**
